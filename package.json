@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-ibotta",
+  "version": "0.1.0",
+  "description": "eslint config for ibotta js projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ibotta/eslint-config-ibotta.git"
+  },
+  "keywords": [],
+  "author": "Ben Limmer <ben@benlimmer.com> (http://benlimmer.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ibotta/eslint-config-ibotta/issues"
+  },
+  "homepage": "https://github.com/Ibotta/eslint-config-ibotta#readme",
+  "peerDependencies": {
+    "eslint": ">=3",
+    "eslint-plugin-ember-suave": "1.0.0"
+  }
+}
